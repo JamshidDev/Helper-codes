@@ -1,5 +1,5 @@
 
-#Helper-codes
+# Helper-codes
 
 
 - Yordamchi kodlar bu sizni loyihanizda as qotishi mumkin bo'lgan kodlar to'plami
