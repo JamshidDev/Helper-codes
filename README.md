@@ -9,7 +9,7 @@
 ####Javascript　
 
 ```javascript
-<!-- berilgan vaqtni hioblovchi funksiya -->
+//berilgan vaqtni hioblovchi funksiya
 function test(){
 	console.log("Hello world!");
 }
