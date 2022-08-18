@@ -13,7 +13,7 @@
 // Date funksiyasi
 
 new Date()
-new Date(year, month, day, hours, minutes, seconds, milliseconds)
+new Date(year, month, day, hours, minutes, seconds, milliseconds)      // new Date(2018, 11, 24, 10, 33, 30, 0);
 new Date(milliseconds)
 new Date(date string)
  
