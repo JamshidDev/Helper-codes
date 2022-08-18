@@ -9,10 +9,13 @@
 ####Javascript　
 
 ```javascript
-//berilgan vaqtni hioblovchi funksiya
-function test(){
-	console.log("Hello world!");
-}
+
+// Date funksiyasi
+
+new Date()
+new Date(year, month, day, hours, minutes, seconds, milliseconds)
+new Date(milliseconds)
+new Date(date string)
  
 (function(){
     var box = function(){
