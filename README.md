@@ -4,7 +4,8 @@
 
 - Yordamchi kodlar bu sizni loyihanizda as qotishi mumkin bo'lgan kodlar to'plami
 
-
+JAVASCRIPT
+==========
 
 ####Javascript　
 
@@ -50,13 +51,14 @@ new Date(date string)
 var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
-
+VUEjs 3
+=======
 
 #### Vue@3 uchun maska 
 
 `$ npm install maska`
 
-EXPRESJS 
+EXPRESSJS 
 ========
 #### Expressjs static folder
 ```javascript 
