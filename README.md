@@ -57,3 +57,11 @@ testBox.add("jQuery").remove("jQuery");
 `$ npm install maska`
 
 
+#### Expressjs static folder
+```javascript 
+
+app.use(express.json())
+app.use(express.static(path.join(__dirname, 'public')))
+
+```
+
